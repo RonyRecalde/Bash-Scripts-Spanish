@@ -1,2 +1,2 @@
-# Colección de simples Scripts en BASH
+# Colección de Scripts en BASH
 ## Empezando en BASH
