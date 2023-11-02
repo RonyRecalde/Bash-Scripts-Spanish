@@ -1,4 +1,4 @@
-# Colección de Scripts en BASH (Bourne Again Shell)
+# Colección de Scripts en BASH (Bourne-Again SHell)
 ## Empezando en BASH
 
 1. Script para visualizar una salída [hola-mundo.sh](https://github.com/RonyRecalde/Bash-Scripts/blob/main/Scripts%20para%20Iniciantes/hola-mundo.sh)
