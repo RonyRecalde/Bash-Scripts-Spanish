@@ -3,8 +3,8 @@
 clear
 
 #Creando una variable de tipo string
-var="bananas"
+fruta="bananas"
 #Visualizando el contenido de la variable
 echo $var
 #Utilizando la variable creada
-echo "Los monos comen $var"
+echo "Los monos comen $fruta"
