@@ -2,7 +2,7 @@
 
 clear
 
-# La opción -n permite no generar una nueva línea 
+# La opción -n junto al comando echo, permite no generar una nueva línea 
 echo -n "Ingrese su nombre: "
 #Leyendo un argumento ingresado por teclado con el comando read
 read nombre
