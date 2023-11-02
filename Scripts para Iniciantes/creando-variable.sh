@@ -5,6 +5,6 @@ clear
 #Creando una variable de tipo string
 fruta="bananas"
 #Visualizando el contenido de la variable
-echo $var
+echo $fruta
 #Utilizando la variable creada
 echo "Los monos comen $fruta"
