@@ -14,7 +14,7 @@ echo "Hola $nombre $apellido. Bienvenido!"
 #Otra forma de hacerlo
 
 #El comando read lee las informaciones ingresadas y las guarda en las variables
-#La opción -p junto al comando read no crea una nueva línea
+#La opción -p junto al comando read permite escribir un mensaje antes de leer la entrada
 read -p "Ingrese su nombre: " nombre
 read -p "Hola, $nombre. Por favor, ingrese su apellido: " apellido
 echo "Hola, $nombre $ apellido. Bienvenido!"
