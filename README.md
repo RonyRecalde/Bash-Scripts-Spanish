@@ -10,4 +10,4 @@
 ## Estructuras de Control
 
 ## Criptografía
-1. Cifrado César [cifrado-cesar.sh](https://github.com/RonyRecalde/Bash-Scripts/blob/main/Scripts%20para%20Iniciantes/variables-numericas.sh)
+1. Cifrado César [cifrado-cesar.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Criptograf%C3%ADa/cifrado-cesar.sh)
