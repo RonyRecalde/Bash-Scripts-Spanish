@@ -6,7 +6,7 @@
 3. Script para leer texto de una entrada [interactuando-con-variables.sh](https://github.com/RonyRecalde/Bash-Scripts/blob/main/Scripts%20para%20Iniciantes/interactuando-con-variables.sh)
 4. Script para convertir texto a mayúsculas o minúsculas [mayusculas-minusculas.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Scripts%20para%20Iniciantes/mayusculas-minusculas.sh)
 5. Script para evitar un patrón de letras en un texto [evitar-patrones.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Scripts%20para%20Iniciantes/evitar-patrones)
-6. Script para inertir un texto [invertir-texto.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Scripts%20para%20Iniciantes/invertir-texto.sh)
+6. Script para invertir un texto [invertir-texto.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Scripts%20para%20Iniciantes/invertir-texto.sh)
 7. Script para crear variables numéricas [variables-numericas.sh](https://github.com/RonyRecalde/Bash-Scripts/blob/main/Scripts%20para%20Iniciantes/variables-numericas.sh)
 8. Script para usar variables de arrays [variables-numericas.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Scripts%20para%20Iniciantes/variables-arrays.sh)
 
