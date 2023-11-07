@@ -9,7 +9,7 @@
 6. Script para invertir un texto [invertir-texto.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Scripts%20para%20Iniciantes/invertir-texto.sh)
 7. Script para crear variables numéricas [variables-numericas.sh](https://github.com/RonyRecalde/Bash-Scripts/blob/main/Scripts%20para%20Iniciantes/variables-numericas.sh)
 8. Script para usar variables de arrays [variables-numericas.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Scripts%20para%20Iniciantes/variables-arrays.sh)
-9. Script para crear nuevos archivos [crear-archivos.sh]()
+9. Script para crear nuevos scripts [crear-scripts.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Scripts%20para%20Iniciantes/crear-scripts.sh)
 
 
 ## Estructuras de Control
