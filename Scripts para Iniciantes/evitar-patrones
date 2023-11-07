@@ -3,4 +3,5 @@
 clear
 
 read -p "Ingrese su texto: " texto
-echo "Su texto invertido es: ${texto~~}"
+read -p "Ingrese las letras a evitar en su texto: " letras
+echo "Su nuevo texto es: " ${texto//letras}"
