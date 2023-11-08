@@ -9,5 +9,6 @@ read -p "Digite el nombre de sus nuevo archivo: " nombre
 > $nombre
 # Al nuevo archivo creado, asignamos el contenido de la variable $header (esto permite que el nuevo archivo sea considerado como un script bash)
 echo "header" > $nombre
-# Damos permisos para ejecutar el nuevo archivo usando el argumento +x
+#El comando chmod permite específicar los permisos de un archivo
+#Damos permisos para ejecutar el nuevo archivo usando el argumento +x
 chmod +x $nombre
