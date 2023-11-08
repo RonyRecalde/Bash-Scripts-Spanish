@@ -13,7 +13,7 @@
 
 ## Aritmética
 1. Suma/Adición [suma.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/suma.sh)
-2. Resta/Substracción [resta.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/suma.sh)
+2. Resta/Substracción [resta.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/resta.sh)
 
 ## Estructuras de Control
 
