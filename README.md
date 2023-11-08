@@ -12,7 +12,8 @@
 9. Script para crear nuevos scripts [crear-scripts.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Scripts%20para%20Iniciantes/crear-scripts.sh)
 
 ## Aritmética
-1. Suma/Adición [suma.sh]()
+1. Suma/Adición [suma.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/suma.sh)
+2. Resta/Substracción [resta.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/suma.sh)
 
 ## Estructuras de Control
 
