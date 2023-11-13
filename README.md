@@ -16,7 +16,7 @@
 2. Resta/Substracción [resta.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/resta.sh)
 3. Multiplicación [multiplicacion.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/multiplicacion.sh)
 4. División [division.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/division.sh)
-5. Menor que [menor.sh]()
+5. Menor que [menor.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/menor.sh)
 6. Menor o igual [menor-igual.sh]()
 
 ## Estructuras de Control
