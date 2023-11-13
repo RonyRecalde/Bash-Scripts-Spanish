@@ -4,7 +4,7 @@ clear
 
 read -p "Ingrese el primer número: " num1
 read -p "Ingrese el segundo número: " num2
-#-lt: less than
+#-gt: greater than
 #Usamos [[]] para realizar la operación de -gt 
 if [[ $num1 -gt $num2 ]]
 then
