@@ -18,6 +18,8 @@
 4. División [division.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/division.sh)
 5. Menor que [menor.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/menor.sh)
 6. Menor o igual [menor-igual.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/menor-igual.sh)
+7. Mayor que [mayor.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/menor.sh)
+6. Mayor o igual [mayor-igual.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/menor-igual.sh)
 
 ## Estructuras de Control
 
