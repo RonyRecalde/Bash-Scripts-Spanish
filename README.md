@@ -23,7 +23,8 @@
 
 ## Estructuras de Control
 1. if/else [if-else.sh]()
-2. for [for.sh]()
+2. if indexado [if-indexado.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Estructuras%20de%20Control/if-indexado.sh)
+3. for [for.sh]()
 
 ## Funciones
 
