@@ -22,7 +22,7 @@
 6. Mayor o igual [mayor-igual.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/mayor-igual.sh)
 
 ## Estructuras de Control
-1. if/else [if-else.sh]()
+1. if/else [if-else.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Estructuras%20de%20Control/if-else.sh)
 2. if indexado [if-indexado.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Estructuras%20de%20Control/if-indexado.sh)
 3. for [for.sh]()
 
