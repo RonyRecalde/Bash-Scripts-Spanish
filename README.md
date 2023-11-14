@@ -22,6 +22,8 @@
 6. Mayor o igual [mayor-igual.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/mayor-igual.sh)
 
 ## Estructuras de Control
+1. if/else [if-else.sh]()
+2. for [for.sh]()
 
 ## Funciones
 
