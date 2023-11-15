@@ -26,7 +26,7 @@
 2. if indexado [if-indexado.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Estructuras%20de%20Control/if-indexado.sh)
 3. for [for.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Estructuras%20de%20Control/for.sh)
 4. for-incremento [for-incremento.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Estructuras%20de%20Control/for-incremento.sh)
-5. for-infinito
+5. for-infinito [for-infinito.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Estructuras%20de%20Control/for-infinito.sh)
 6. while [while.sh]()
 
 ## Funciones
