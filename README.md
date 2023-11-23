@@ -19,7 +19,8 @@
 5. Menor que [menor.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/menor.sh)
 6. Menor o igual [menor-igual.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/menor-igual.sh)
 7. Mayor que [mayor.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/mayor.sh)
-6. Mayor o igual [mayor-igual.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/mayor-igual.sh)
+8. Mayor o igual [mayor-igual.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/mayor-igual.sh)
+9. Igual que [igual-que.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Aritm%C3%A9tica/igual-que.sh)
 
 ## Estructuras de Control
 1. if/else [if-else.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Estructuras%20de%20Control/if-else.sh)
