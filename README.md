@@ -29,6 +29,7 @@
 4. for-incremento [for-incremento.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Estructuras%20de%20Control/for-incremento.sh)
 5. for-infinito [for-infinito.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Estructuras%20de%20Control/for-infinito.sh)
 6. while [while.sh]()
+7. case [case.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Estructuras%20de%20Control/case.sh)
 
 ## Funciones
 
